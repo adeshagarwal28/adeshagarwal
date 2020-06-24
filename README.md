@@ -1,2 +1,2 @@
-# adeshagarwal
+# Adesh Agarwal
 Resume
